@@ -39,3 +39,9 @@ Automatic Report Opening after test execution.
 Automating test execution and reporting in this way increases efficiency and scalability, and ensures a clean testing environment every time. It saves time, reduces human error, and provides real-time feedback with a professional-quality report after every test run.
 
 📈 Results: Real-time insights from the generated Allure report help identify flaky tests and failed scenarios, improving overall test coverage and product quality.
+
+
+![image](https://github.com/user-attachments/assets/8d120b09-eac9-4b32-b033-60cdfeaf2bf5)
+![image](https://github.com/user-attachments/assets/ae56c570-053a-4526-91a1-96f8270e6592)
+
+
